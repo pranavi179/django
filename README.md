@@ -1,7 +1,7 @@
 # Django powered website for Tutorials. #
 ## A simple website to view tutorials. A collection of tutorials make a series for a particular category ##
 
-** How to Install and run: **
+**How to Install and run:**
 
 requirements:
 	git
@@ -11,7 +11,7 @@ requirements:
 	pip
 
 
-** creating a virtual env: **
+**creating a virtual env:**
 
 	Install "venv" for virtual evironment in python using pip.
 		In terminal type:  "pip install venv"
@@ -26,22 +26,19 @@ requirements:
 		In terminal type "source venv/bin/activate"
 
 
-** clone repository from git **
+**clone repository from git**
 		type in terminal: "git clone https://github.com/pranavi179/mysite.git"
 
 
-** Installing necessary modules **
+**Installing necessary modules**
 	 When inside the virtual env "venv". 
 		type "pip install -r requirements.txt"
 	This will install all necessary packages.
 
-** RUN **
+**RUN**
 	Inside the project folder containing "manage.py"
 	run "python3 manage.py runserver"
 
  This starts a localhost server in port 8000: 
 	
 Enter " http://127.0.0.1:8000" in any browser of your choice.
-
-
-	
