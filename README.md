@@ -42,4 +42,7 @@ requirements:
  This starts a localhost server in port 8000: 
 	
 Enter " http://127.0.0.1:8000" in any browser of your choice.
+<<<<<<< HEAD
 
+=======
+>>>>>>> ddeff8295491c02f6542fd6ebac67c434e924567
