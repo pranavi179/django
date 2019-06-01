@@ -1,4 +1,4 @@
-# Django powered website for Tutorials.
+# Django powered website for Tutorials. #
 ## A simple website to view tutorials. A collection of tutorials make a series for a particular category ##
 
 ** How to Install and run: **
@@ -26,11 +26,11 @@ requirements:
 		In terminal type "source venv/bin/activate"
 
 
-** clone repository from git"
+** clone repository from git **
 		type in terminal: "git clone https://github.com/pranavi179/mysite.git"
 
 
-** Installing necessary modules"
+** Installing necessary modules **
 	 When inside the virtual env "venv". 
 		type "pip install -r requirements.txt"
 	This will install all necessary packages.
