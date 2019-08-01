@@ -27,7 +27,7 @@ requirements:
 
 
 **clone repository from git**
-		type in terminal: "git clone https://github.com/pranavi179/mysite.git"
+		type in terminal: "git clone https://github.com/pranavi179/django.git"
 
 
 **Installing necessary modules**
